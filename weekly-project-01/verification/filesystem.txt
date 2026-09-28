@@ -1,0 +1,91 @@
+/home/khalid/northstar-it
+├── archive
+│   ├── completed-reports
+│   │   ├── report1.txt
+│   │   ├── report2.txt
+│   │   └── report3.txt
+│   ├── old-linux-lesson.txt
+│   └── security-audit-old.txt
+├── backup
+│   ├── auth01.log
+│   ├── auth02.log
+│   ├── auth03.log
+│   ├── lesson1.txt
+│   ├── lesson2.txt
+│   ├── lesson3.txt
+│   ├── lesson4.txt
+│   ├── network
+│   │   ├── configs
+│   │   ├── diagrams
+│   │   └── reports
+│   │       ├── report1.txt
+│   │       ├── report2.txt
+│   │       └── report3.txt
+│   ├── server01.conf
+│   ├── system01.log
+│   └── system02.log
+├── departments
+│   ├── linux
+│   │   ├── configs
+│   │   │   ├── server01-backup.conf
+│   │   │   ├── server01.conf
+│   │   │   ├── server02.conf
+│   │   │   └── server03.conf
+│   │   ├── logs
+│   │   ├── notes
+│   │   │   ├── lesson1.txt
+│   │   │   ├── lesson2.txt
+│   │   │   └── lesson3.txt
+│   │   └── scripts
+│   │       ├── backup.sh
+│   │       ├── cleanup.sh
+│   │       └── monitor.sh
+│   ├── network
+│   │   ├── configs
+│   │   │   ├── router01.conf
+│   │   │   ├── router02.conf
+│   │   │   ├── switch01.conf
+│   │   │   └── switch02.conf
+│   │   ├── diagrams
+│   │   └── reports
+│   └── security
+│       ├── logs
+│       │   ├── auth01.log
+│       │   ├── auth02.log
+│       │   ├── auth03.log
+│       │   ├── system01.log
+│       │   └── system02.log
+│       ├── policies
+│       └── reports
+│           ├── audit1.txt
+│           └── audit2.txt
+├── reports
+│   ├── error.log
+│   ├── server-list.txt
+│   ├── system-summary.txt
+│   └── unique-servers.txt
+├── temp
+└── users
+    ├── admin01
+    │   └── linux-configs -> /home/khalid/northstar-it/departments/linux/configs
+    ├── admin02
+    └── trainee01
+        ├── lab1.txt
+        ├── lab2.txt
+        ├── lab3.txt
+        ├── lab4.txt
+        ├── lab5.txt
+        └── lab6.txt
+
+28 directories, 49 files
+total 8
+drwxr-xr-x.  8 khalid khalid  133 Sep 28 23:43 .
+drwx------. 16 khalid khalid 4096 Sep 29 01:26 ..
+drwxr-xr-x.  3 khalid khalid   89 Sep 28 23:44 archive
+drwxr-xr-x.  3 khalid khalid 4096 Sep 27 23:04 backup
+drwxr-xr-x.  5 khalid khalid   50 Sep 24 23:05 departments
+-rw-r--r--.  1 khalid khalid    0 Sep 24 23:19 .inventory
+-rw-r--r--.  1 khalid khalid    0 Sep 24 23:19 .project.conf
+drwxr-xr-x.  2 khalid khalid   98 Sep 27 23:36 reports
+drwxr-xr-x.  2 khalid khalid    6 Sep 28 23:46 temp
+drwxr-xr-x.  5 khalid khalid   53 Sep 24 23:05 users

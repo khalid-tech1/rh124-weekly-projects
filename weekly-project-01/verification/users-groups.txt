@@ -1,0 +1,7 @@
+linuxops:x:1001:nsadmin1
+netops:x:1002:nstech1
+auditops:x:1003:nstrainee1
+projectteam:x:1004:nsadmin1,nstech1,nstrainee1
+uid=1001(nsadmin1) gid=1005(nsadmin1) groups=1005(nsadmin1),1001(linuxops),1004(projectteam)
+uid=1004(nstech1) gid=1008(nstech1) groups=1008(nstech1),1002(netops),1004(projectteam)
+uid=1005(nstrainee1) gid=1009(nstrainee1) groups=1009(nstrainee1),1003(auditops),1004(projectteam)

@@ -1,0 +1,10 @@
+drwxrws---. 2 root linuxops 50 Sep 28 22:58 /srv/northstar/linuxshare
+drwxrws--T. 2 root projectteam 49 Sep 28 23:10 /srv/northstar/teamdrop
+total 0
+-rw-r--r--. 1 nsadmin1 linuxops 0 Sep 28 22:52 admin-note.txt
+-rw-rw----. 1 nsadmin1 linuxops 0 Sep 28 22:58 umask-test.txt
+total 0
+-rw-r--r--. 1 nsadmin1 projectteam 0 Sep 28 23:08 admin-file.txt
+-rw-r--r--. 1 nstech1  projectteam 0 Sep 28 23:10 tech-file.txt
+102703648 -rw-r--r--. 2 khalid khalid 0 Sep 24 23:08 /home/khalid/northstar-it/departments/linux/configs/server01-backup.conf
+102703648 -rw-r--r--. 2 khalid khalid 0 Sep 24 23:08 /home/khalid/northstar-it/departments/linux/configs/server01.conf
