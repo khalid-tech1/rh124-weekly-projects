@@ -1,0 +1,8 @@
+platformops:x:1010:wp2admin,wp2tech,wp2trainee
+networkteam:x:1011:
+secaudit:x:1012:
+collabops:x:1013:wp2admin,wp2tech,wp2trainee
+reviewsudo:x:1014:wp2admin
+uid=1006(wp2admin) gid=1006(wp2admin) groups=1006(wp2admin),1010(platformops),1013(collabops),1014(reviewsudo)
+uid=1007(wp2tech) gid=1007(wp2tech) groups=1007(wp2tech),1010(platformops),1013(collabops)
+uid=1008(wp2trainee) gid=1015(wp2trainee) groups=1015(wp2trainee),1010(platformops),1013(collabops)

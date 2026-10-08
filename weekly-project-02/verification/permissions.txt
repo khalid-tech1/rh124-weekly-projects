@@ -1,0 +1,4 @@
+drwxrws---. 2 root secaudit    33 Oct  6 19:51 /srv/northstar-wp2/audit
+drwxrws---. 2 root platformops 68 Oct  3 20:32 /srv/northstar-wp2/linux
+drwxrws---. 2 root networkteam  6 Oct  3 18:55 /srv/northstar-wp2/network
+drwxrws--T. 2 root collabops   82 Oct  6 19:46 /srv/northstar-wp2/project

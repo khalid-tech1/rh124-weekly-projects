@@ -1,0 +1,4 @@
+-r--r-----. 1 root root 36 Oct  6 20:37 /etc/sudoers.d/northstar-wp2-review
+%reviewsudo ALL=(ALL) /usr/bin/tail
+/etc/sudoers: parsed OK
+/etc/sudoers.d/northstar-wp2-review: parsed OK
